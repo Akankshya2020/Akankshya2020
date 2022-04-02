@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akankshya</h1>
-<h3 align="center">passionate about DATA SCIENCE</h3>
+<h1 align="left">Hi 👋, I'm Akankshya</h1>
+<h3 align="left">passionate about DATA SCIENCE</h3>
 
 - 🌱 I’m currently learning **OpenCV**
 
